@@ -10,7 +10,13 @@
 git clone https://github.com/radm24/simple-crud-app.git
 ```
 
-2\. Install the dependencies:
+2\. Go to the app directory
+
+```bash
+cd simple-crud-app
+```
+
+3\. Install the dependencies:
 
 ```bash
 npm install
